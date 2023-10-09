@@ -18,7 +18,7 @@ Throughout the course, students will engage with a wide range of research papers
 
 
 ## 📄 Assignment List
-### [Assignment 1](https://github.com/Rishikesh-Jadhav/CMSC848F-3D-Vision/tree/main/Assignment1): Superpixels and Image Segmentation
+### [Assignment 1](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment1): Superpixels and Image Segmentation
 
 - **Learnings from Assignment 1**:
 
