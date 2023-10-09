@@ -2,7 +2,7 @@
 This repository serves as a record of my academic experience in CMSC828 during the Fall of 2023. It includes my code submissions for assignments and projects. Each assignment is organized within its respective folder, complete with accompanying documentation and any necessary resources.
 
 ## 📚 Course Overview
-The "Advanced Techniques in Visual Learning & Recognition" (CMSC828I - Fall 2021) course at the University of Maryland offers a deep dive into the cutting-edge realms of computer vision and high-level recognition tasks. This course is structured into five key modules, each addressing a crucial aspect of visual learning and recognition:
+The course offers a deep dive into the cutting-edge realms of computer vision and high-level recognition tasks. This course is structured into five key modules, each addressing a crucial aspect of visual learning and recognition:
 
 1. **Background and Foundations:** Introduction to Data, covering topics like the massive 80 million tiny image dataset and the storage capacity of visual long-term memory. Data-driven methods in vision, including image restoration, scene completion, and geographic information estimation from images. Exploring ConvNets and architectures, with a focus on various important architectures and the inner workings of convolutional neural networks.
 
@@ -18,7 +18,7 @@ Throughout the course, students will engage with a wide range of research papers
 
 
 ## 📄 Assignment List
-### [Assignment 1](https://github.com/Rishikesh-Jadhav/CMSC848F-3D-Vision/tree/main/Assignment1): Rendering with Pytorch3D
+### [Assignment 1](https://github.com/Rishikesh-Jadhav/CMSC848F-3D-Vision/tree/main/Assignment1): Superpixels and Image Segmentation
 
 - **Learnings from Assignment 1**:
 
