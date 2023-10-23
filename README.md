@@ -22,13 +22,11 @@ Throughout the course, students will engage with a wide range of research papers
 
 - **Learnings from Assignment 1**:
 
-  1. __Superpixel Segmentation:__ 
-
   1. **Superpixel Segmentation**: Understood the concept of superpixel segmentation, which involves grouping similar pixels into coherent regions or superpixels, simplifying image analysis.
 
   2. **SLIC Algorithm**: I learned about the SLIC (Simple Linear Iterative Clustering) algorithm, a popular method for superpixel generation, which was implemented from scratch.
 
-  3. **Data Preparation**: The assignment taught me how to prepare data for machine learning tasks, including organizing image and ground truth segmentation files and splitting the data into training and testing sets.
+  3. **Data Preparation**: Prepared data for the supepixel segmentation task, including organizing image and ground truth segmentation files and splitting the data into training and testing sets.
 
   4. **Patch Extraction**: Learned how to extract superpixel patches along with their class labels. This process involved bounding box extraction, label assignment based on the majority class, and saving patches in a suitable format.
 
@@ -49,7 +47,6 @@ Throughout the course, students will engage with a wide range of research papers
   12. **Flexibility**: The assignment allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks.
 
   13. **Problem-Solving Skills**: Tackled challenges, such as dealing with empty segments, handling small patches, and ensuring efficient data processing.
-
 
 
 ## Additional Resources
