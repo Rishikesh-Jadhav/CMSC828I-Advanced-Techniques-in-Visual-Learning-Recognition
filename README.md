@@ -23,32 +23,33 @@ Throughout the course, students will engage with a wide range of research papers
 ### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
 
 - **Learnings from Assignment 1**:
+  We used Microsoft Research Cambridge Object Recognition Image Database often abbreviated as "MSRC Object Categorization Dataset for this task.
 
-  1. **Superpixel Segmentation**: Understood the concept of superpixel segmentation, which involves grouping similar pixels into coherent regions or superpixels, simplifying image analysis.
+  1. **Dataset**:Used the Microsoft Research Cambridge Object Recognition Image Database (MSRC Object Categorization Dataset) for the assignment
+     
+  2. **Superpixel Segmentation**: Understood the concept of superpixel segmentation, which involves grouping similar pixels into coherent regions or superpixels, simplifying image analysis.
 
-  2. **SLIC Algorithm**: I learned about the SLIC (Simple Linear Iterative Clustering) algorithm, a popular method for superpixel generation, which was implemented from scratch.
+  3. **SLIC Algorithm**: I learned about the SLIC (Simple Linear Iterative Clustering) algorithm, a popular method for superpixel generation, which was implemented from scratch.
 
-  3. **Data Preparation**: Prepared data for the supepixel segmentation task, including organizing image and ground truth segmentation files and splitting the data into training and testing sets.
+  4. **Data Preparation**: Prepared data for the supepixel segmentation task, including organizing image and ground truth segmentation files and splitting the data into training and testing sets.
 
-  4. **Patch Extraction**: Learned how to extract superpixel patches along with their class labels. This process involved bounding box extraction, label assignment based on the majority class, and saving patches in a suitable format.
+  5. **Patch Extraction**: Learned how to extract superpixel patches along with their class labels. This process involved bounding box extraction, label assignment based on the majority class, and saving patches in a suitable format.
 
-  5. **Data Loading**: Created a custom dataset class for loading superpixel patches and their labels, making the data ready for training deep learning models.
+  6. **Data Loading**: Created a custom dataset class for loading superpixel patches and their labels, making the data ready for training deep learning models.
 
-  6. **Deep Learning**: Used PyTorch to define a deep learning model for superpixel classification, and I learned to fine-tune a pre-trained model (ResNet) for this specific task.
+  7. **Deep Learning**: Used PyTorch to define a deep learning model for superpixel classification, and I learned to fine-tune a pre-trained model (ResNet) for this specific task.
 
-  7. **Training and Evaluation**: Trained and evaluated the model, including tracking training and testing losses and accuracies over multiple epochs.
+  8. **Training and Evaluation**: Trained and evaluated the model, including tracking training and testing losses and accuracies over multiple epochs.
 
-  8. **Data Visualization**: Visualized images, superpixel patches, and segmentation maps.
+  9. **Data Visualization**: Visualized images, superpixel patches, and segmentation maps.
 
-  9. **Optimization and Learning Rate Scheduling**: I set up an optimizer (Adam) and a learning rate scheduler to fine-tune the model's performance.
+  10. **Optimization and Learning Rate Scheduling**: I set up an optimizer (Adam) and a learning rate scheduler to fine-tune the model's performance.
 
-  10. **Random Splitting**: The assignment involved splitting the dataset into training and testing subsets to assess the model's performance.
+  11. **Random Splitting**: The assignment involved splitting the dataset into training and testing subsets to assess the model's performance.
 
-  11. **Bonus Learning**: I explored the possibility of improving the model by implementing more advanced techniques like feature fusion or multi-resolution networks.
+  12. **Bonus Learning**: I explored the possibility of improving the model by implementing more advanced techniques like feature fusion or multi-resolution networks.
 
-  12. **Flexibility**: The assignment allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks.
-
-  13. **Problem-Solving Skills**: Tackled challenges, such as dealing with empty segments, handling small patches, and ensuring efficient data processing.
+  13. **Flexibility**: The assignment allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks, handling small patches, and ensuring efficient data   processing.
 
 
 ## Additional Resources
