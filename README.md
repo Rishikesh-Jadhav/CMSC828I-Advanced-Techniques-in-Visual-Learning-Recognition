@@ -14,7 +14,7 @@ The course offers a deep dive into the cutting-edge realms of computer vision an
 
 6. **Generative Models and More:** In-depth exploration of 3D Scene Understanding, Primitives, and Reasoning. Study of 3D object recognition, including 3D Scene Understanding, 3D object primitives, and reasoning. Generative Models for image and data generation. Miscellaneous topics related to visual data mining and discovery. Ethical considerations in computer vision.
 
-Throughout the course, students will engage with a wide range of research papers, lectures, and assignments, providing them with a comprehensive understanding of advanced techniques in visual learning and recognition. The course covers foundational concepts, cutting-edge methods, and emerging trends in the field of computer vision and visual recognition.
+Throughout the course, we engaged with a wide range of research papers, lectures, and assignments, which providing us with a comprehensive understanding of advanced techniques in visual learning and recognition. The course covers foundational concepts, cutting-edge methods, and emerging trends in the field of computer vision and visual recognition.
 
 
 ## 📄 Assignment List
