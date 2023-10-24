@@ -23,9 +23,8 @@ Throughout the course, students will engage with a wide range of research papers
 ### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
 
 - **Learnings from Assignment 1**:
-  We used Microsoft Research Cambridge Object Recognition Image Database often abbreviated as "MSRC Object Categorization Dataset for this task.
-
-  1. **Dataset**:Used the Microsoft Research Cambridge Object Recognition Image Database (MSRC Object Categorization Dataset) for the assignment
+  
+  1. **Dataset**:Used the Microsoft Research Cambridge Object Recognition Image Database (MSRC Object Categorization Dataset) for the assignment.
      
   2. **Superpixel Segmentation**: Understood the concept of superpixel segmentation, which involves grouping similar pixels into coherent regions or superpixels, simplifying image analysis.
 
