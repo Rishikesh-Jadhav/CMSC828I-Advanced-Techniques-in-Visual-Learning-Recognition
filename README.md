@@ -60,7 +60,7 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
 ### [Assignment 2](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment2): Implicit Neural Representation
 
-### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW2.ipynb) : Contains the notebook wih the outputs of the given task.
+### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment2/Rishikesh_cmsc828I_fall_2023_HW2.ipynb) : Contains the notebook wih the outputs of the given task.
 
 - **Implementation and Learnings from Assignment 2**:
   
