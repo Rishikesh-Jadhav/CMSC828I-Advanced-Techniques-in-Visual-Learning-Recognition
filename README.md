@@ -68,7 +68,7 @@ Throughout the course, we engaged with a wide range of research papers, lectures
   
   2. **SingleImageDataset Implementation**: Developed a `SingleImageDataset` to convert the selected image into model inputs and targets.
      - #### Selected Image  
-     <img src="images/redbull%20rgb.png" alt="Selected Image" width="20%"/>
+     <img src="images/redbull%20rgb.png" alt="Selected Image" width="50%"/>
 
   3. **Image Resizing**: Resized the selected image to meet the maximum pixel count requirement, ensuring efficient model training.
   
@@ -82,17 +82,17 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
   8. **Loss Plotting**: Plotted the loss values over epochs for visual analysis.
      - #### Reconstrunction Loss Vs Training Time  
-     <img src="images/loss%20plot.png" alt="Selected Image" width="20%"/>
+     <img src="images/loss%20plot.png" alt="Selected Image" width="50%"/>
       
   10. Image Recontstruction:  Reconstructed the image using the trained model’s outputs, at each coordinate.
      - #### Reconstruncted Image with GT  
-     <img src="images/image%20reconstruction.png" alt="Selected Image" width="20%"/>
+     <img src="images/image%20reconstruction.png" alt="Selected Image" width="50%"/>
       
   11. Compute PSNR: Computed PSNR for the reconstruction vs. the original image form scratch : PSNR: 65.75267791748047 dB
   
   12. **Outpainting**: Predicted 20 pixels in all directions outside the boundaries of original image using the trained model.
      - #### Outpainted Image with GT  
-     <img src="images/outpainting.png" alt="Selected Image" width="20%"/>
+     <img src="images/outpainting.png" alt="Selected Image" width="50%"/>
      
 ## Additional Resources
 - [Course related resources](https://www.cs.umd.edu/class/fall2023/cmsc828i/)
