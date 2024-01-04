@@ -23,7 +23,7 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
 ### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
 
-- **Learnings from Assignment 1**:
+- **Implementation and Learnings from Assignment 1**:
   
   1. **Dataset**:Used the Microsoft Research Cambridge Object Recognition Image Database (MSRC Object Categorization Dataset) for the assignment.
      
@@ -62,13 +62,13 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
 ### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW2.ipynb) : Contains the notebook wih the outputs of the given task.
 
-- **Learnings from Assignment 2**:
+- **Implementation and Learnings from Assignment 2**:
   
   1. **Understanding Implicit Neural Representation (INR)**: Explored hands-on experience with INR, parameterizing signals (images) with a neural network (feed-forward network in this assignment).
   
   2. **SingleImageDataset Implementation**: Developed a `SingleImageDataset` to convert the selected image into model inputs and targets.
-     - #### Selected Image  
-     <img src="images/redbull%20rgb.png" alt="Selected Image" width="50%"/>
+     - **Selected Image**  
+     ![Selected Image](images/redbull%20rgb.png)
 
   3. **Image Resizing**: Resized the selected image to meet the maximum pixel count requirement, ensuring efficient model training.
   
@@ -81,18 +81,18 @@ Throughout the course, we engaged with a wide range of research papers, lectures
   7. **Model Training**: Trained the network on the dataset until convergence, monitored loss, and adjusted learning rate using a scheduler.
 
   8. **Loss Plotting**: Plotted the loss values over epochs for visual analysis.
-     - #### Reconstrunction Loss Vs Training Time  
-     <img src="images/loss%20plot.png" alt="Selected Image" width="50%"/>
+     - **Reconstruction Loss Vs Training Time**  
+     ![Loss Plot](images/loss%20plot.png)
       
-  10. Image Recontstruction:  Reconstructed the image using the trained model’s outputs, at each coordinate.
-     - #### Reconstruncted Image with GT  
-     <img src="images/image%20reconstruction.png" alt="Selected Image" width="50%"/>
+  10. **Image Reconstruction**: Reconstructed the image using the trained model’s outputs at each coordinate.
+     - **Reconstructed Image with GT**  
+     ![Reconstructed Image](images/image%20reconstruction.png)
       
-  11. Compute PSNR: Computed PSNR for the reconstruction vs. the original image form scratch : PSNR: 65.75267791748047 dB
+  11. **Compute PSNR**: Computed PSNR for the reconstruction vs. the original image from scratch: PSNR: 65.75267791748047 dB
   
-  12. **Outpainting**: Predicted 20 pixels in all directions outside the boundaries of original image using the trained model.
-     - #### Outpainted Image with GT  
-     <img src="images/outpainting.png" alt="Selected Image" width="50%"/>
+  12. **Outpainting**: Predicted 20 pixels in all directions outside the boundaries of the original image using the trained model.
+     - **Outpainted Image with GT**  
+     ![Outpainted Image](images/outpainting.png)
      
 ## Additional Resources
 - [Course related resources](https://www.cs.umd.edu/class/fall2023/cmsc828i/)
