@@ -51,16 +51,17 @@ Throughout the course, we engaged with a wide range of research papers, lectures
   13. **Flexibility**: The assignment allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks, handling small patches, and ensuring efficient data   processing.
 
 #### Kmeans Clustering Output
-![Kmeans Clustering](images/kmeans_output.png)
+![Kmeans Clustering](images/naive%20clustering.png)
 
 #### SLIC Clustering with Enforced Constraints
-![SLIC Clustering](images/slic_output.png)
+![SLIC Clustering](images/slic%20clustering.png)
 
 #### Sample Patch of the Newly Created Dataset
-![Sample Patch](images/sample_patch.png)
+![Sample Patch](images/sample%20%20seg%20patch.png)
 
 #### Output of ResNet-based Segmentation Model
-![Segmentation Model Output](images/segmentation_output.png)
+![RGB Image](images/seg%20rgb%20image.png)
+![Segmentation Model Output + GT](images/resnet%20prediction.png)
 
 
 ## Additional Resources
