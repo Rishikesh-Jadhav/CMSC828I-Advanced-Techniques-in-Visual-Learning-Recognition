@@ -52,18 +52,26 @@ Throughout the course, we engaged with a wide range of research papers, lectures
   13. **Flexibility**: The assignment allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks, handling small patches, and ensuring efficient data   processing.
 
 - #### Kmeans Clustering Output
-![Kmeans Clustering](images/naive%20clustering.png)
+<img src="images/naive%20clustering.png" alt="Kmeans Clustering" width="80%"/>
 
 - #### SLIC Clustering with Enforced Constraints
-![SLIC Clustering](images/slic%20clustering.png)
+<img src="images/slic%20clustering.png" alt="SLIC Clustering" width="80%"/>
 
 - #### Sample Patch of the Newly Created Dataset
-![Sample Patch](images/sample%20%20seg%20patch.png)
+<img src="images/sample%20%20seg%20patch.png" alt="Sample Patch" width="80%"/>
 
 - #### Output of ResNet-based Segmentation Model
-![RGB Image](images/seg%20rgb%20image.png)
-![Segmentation Model Output + GT](images/resnet%20prediction.png)
+<img src="images/seg%20rgb%20image.png" alt="RGB Image" width="80%"/>
+<img src="images/resnet%20prediction.png" alt="Segmentation Model Output + GT" width="80%"/>
 
+
+
+### [Assignment 1](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment1): Superpixels and Image Segmentation
+
+### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
+
+- **Learnings from Assignment 1**:
+- 
 
 ## Additional Resources
 - [Course related resources](https://www.cs.umd.edu/class/fall2023/cmsc828i/)
