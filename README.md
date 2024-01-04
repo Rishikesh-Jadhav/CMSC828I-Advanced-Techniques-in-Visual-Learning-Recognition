@@ -50,6 +50,18 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
   13. **Flexibility**: The assignment allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks, handling small patches, and ensuring efficient data   processing.
 
+#### Kmeans Clustering Output
+![Kmeans Clustering](images/kmeans_output.png)
+
+#### SLIC Clustering with Enforced Constraints
+![SLIC Clustering](images/slic_output.png)
+
+#### Sample Patch of the Newly Created Dataset
+![Sample Patch](images/sample_patch.png)
+
+#### Output of ResNet-based Segmentation Model
+![Segmentation Model Output](images/segmentation_output.png)
+
 
 ## Additional Resources
 - [Course related resources](https://www.cs.umd.edu/class/fall2023/cmsc828i/)
