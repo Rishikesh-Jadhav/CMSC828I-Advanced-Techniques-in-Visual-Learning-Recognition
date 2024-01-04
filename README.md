@@ -28,12 +28,14 @@ Throughout the course, we engaged with a wide range of research papers, lectures
   1. **Dataset**:Used the Microsoft Research Cambridge Object Recognition Image Database (MSRC Object Categorization Dataset) for the assignment.
      
   2. **Superpixel Segmentation**: Understood the concept of superpixel segmentation, which involves grouping similar pixels into coherent regions or superpixels, simplifying image analysis.
-
+     - #### Kmeans Clustering Output
+     <img src="images/naive%20clustering.png" alt="Kmeans Clustering" width="20%"/>
   3. **SLIC Algorithm**: I learned about the SLIC (Simple Linear Iterative Clustering) algorithm, a popular method for superpixel generation, which was implemented from scratch.
      - #### SLIC Clustering with Enforced Constraints
      <img src="images/slic%20clustering.png" alt="SLIC Clustering" width="20%"/>
   4. **Data Preparation**: Prepared data for the supepixel segmentation task, including organizing image and ground truth segmentation files and splitting the data into training and testing sets.
-
+     - #### Sample Patch of the Newly Created Dataset
+     <img src="images/sample%20%20seg%20patch.png" alt="Sample Patch" width="20%"/>  
   5. **Patch Extraction**: Learned how to extract superpixel patches along with their class labels. This process involved bounding box extraction, label assignment based on the majority class, and saving patches in a suitable format.
 
   6. **Data Loading**: Created a custom dataset class for loading superpixel patches and their labels, making the data ready for training deep learning models.
@@ -43,7 +45,9 @@ Throughout the course, we engaged with a wide range of research papers, lectures
   8. **Training and Evaluation**: Trained and evaluated the model, including tracking training and testing losses and accuracies over multiple epochs.
 
   9. **Data Visualization**: Visualized images, superpixel patches, and segmentation maps.
-
+    - #### Output of ResNet-based Segmentation Model  
+    <img src="images/seg%20rgb%20image.png" alt="RGB Image" width="20%"/>
+    <img src="images/resnet%20prediction.png" alt="Segmentation Model Output + GT" width="20%"/>
   10. **Optimization and Learning Rate Scheduling**: I set up an optimizer (Adam) and a learning rate scheduler to fine-tune the model's performance.
 
   11. **Random Splitting**: The assignment involved splitting the dataset into training and testing subsets to assess the model's performance.
@@ -52,26 +56,12 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
   13. **Flexibility**: The assignment allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks, handling small patches, and ensuring efficient data   processing.
 
-- #### Kmeans Clustering Output
-<img src="images/naive%20clustering.png" alt="Kmeans Clustering" width="20%"/>
 
-- #### SLIC Clustering with Enforced Constraints
-<img src="images/slic%20clustering.png" alt="SLIC Clustering" width="20%"/>
+### [Assignment 2](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment2): Implicit Neural Representation
 
-- #### Sample Patch of the Newly Created Dataset
-<img src="images/sample%20%20seg%20patch.png" alt="Sample Patch" width="20%"/>
+### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW2.ipynb) : Contains the notebook wih the outputs of the given task.
 
-- #### Output of ResNet-based Segmentation Model
-<img src="images/seg%20rgb%20image.png" alt="RGB Image" width="20%"/>
-<img src="images/resnet%20prediction.png" alt="Segmentation Model Output + GT" width="20%"/>
-
-
-
-### [Assignment 2](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment1): Superpixels and Image Segmentation
-
-### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
-
-- **Learnings from Assignment 1**:
+- **Learnings from Assignment 2**:
 - 
 
 ## Additional Resources
