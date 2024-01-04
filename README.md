@@ -46,7 +46,7 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
   9. **Data Visualization**: Visualized images, superpixel patches, and segmentation maps.
      - #### Output of ResNet-based Segmentation Model  
-     <img src="images/seg%20rgb%20image.png" alt="RGB Image" width="50%"/>
+     <img src="images/seg%20rgb%20image.png" alt="RGB Image" width="45%"/>
      <img src="images/resnet%20prediction.png" alt="Segmentation Model Output + GT" width="20%"/>
     
   10. **Optimization and Learning Rate Scheduling**: I set up an optimizer (Adam) and a learning rate scheduler to fine-tune the model's performance.
