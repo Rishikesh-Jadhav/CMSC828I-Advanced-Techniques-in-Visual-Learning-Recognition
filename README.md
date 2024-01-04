@@ -30,7 +30,8 @@ Throughout the course, we engaged with a wide range of research papers, lectures
   2. **Superpixel Segmentation**: Understood the concept of superpixel segmentation, which involves grouping similar pixels into coherent regions or superpixels, simplifying image analysis.
 
   3. **SLIC Algorithm**: I learned about the SLIC (Simple Linear Iterative Clustering) algorithm, a popular method for superpixel generation, which was implemented from scratch.
-
+     - #### SLIC Clustering with Enforced Constraints
+     <img src="images/slic%20clustering.png" alt="SLIC Clustering" width="20%"/>
   4. **Data Preparation**: Prepared data for the supepixel segmentation task, including organizing image and ground truth segmentation files and splitting the data into training and testing sets.
 
   5. **Patch Extraction**: Learned how to extract superpixel patches along with their class labels. This process involved bounding box extraction, label assignment based on the majority class, and saving patches in a suitable format.
@@ -66,7 +67,7 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
 
 
-### [Assignment 1](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment1): Superpixels and Image Segmentation
+### [Assignment 2](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment1): Superpixels and Image Segmentation
 
 ### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
 
