@@ -18,6 +18,7 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
 
 ## 📄 Assignment List
+
 ### [Assignment 1](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment1): Superpixels and Image Segmentation
 
 ### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
@@ -50,16 +51,16 @@ Throughout the course, we engaged with a wide range of research papers, lectures
 
   13. **Flexibility**: The assignment allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks, handling small patches, and ensuring efficient data   processing.
 
-#### Kmeans Clustering Output
+- #### Kmeans Clustering Output
 ![Kmeans Clustering](images/naive%20clustering.png)
 
-#### SLIC Clustering with Enforced Constraints
+- #### SLIC Clustering with Enforced Constraints
 ![SLIC Clustering](images/slic%20clustering.png)
 
-#### Sample Patch of the Newly Created Dataset
+- #### Sample Patch of the Newly Created Dataset
 ![Sample Patch](images/sample%20%20seg%20patch.png)
 
-#### Output of ResNet-based Segmentation Model
+- #### Output of ResNet-based Segmentation Model
 ![RGB Image](images/seg%20rgb%20image.png)
 ![Segmentation Model Output + GT](images/resnet%20prediction.png)
 
