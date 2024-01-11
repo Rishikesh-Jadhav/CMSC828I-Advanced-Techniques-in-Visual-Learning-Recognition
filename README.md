@@ -1,5 +1,5 @@
 # CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition
-This repository serves as a record of my academic experience in CMSC828 during the Fall of 2023. It includes my code submissions for assignments and projects. Each assignment is organized within its respective folder, complete with accompanying documentation and any necessary resources.
+This repository serves as a record of my academic experience in CMSC828 during the Fall of 2023. It includes my code submissions for projects. Each Project is organized within its respective folder, complete with accompanying documentation and any necessary resources.
 
 ## 📚 Course Overview
 The course offers a deep dive into the cutting-edge realms of computer vision and high-level recognition tasks. This course is structured into five key modules, each addressing a crucial aspect of visual learning and recognition:
@@ -14,18 +14,18 @@ The course offers a deep dive into the cutting-edge realms of computer vision an
 
 6. **Generative Models and More:** In-depth exploration of 3D Scene Understanding, Primitives, and Reasoning. Study of 3D object recognition, including 3D Scene Understanding, 3D object primitives, and reasoning. Generative Models for image and data generation. Miscellaneous topics related to visual data mining and discovery. Ethical considerations in computer vision.
 
-Throughout the course, we engaged with a wide range of research papers, lectures, and assignments, which providing us with a comprehensive understanding of advanced techniques in visual learning and recognition. The course covers foundational concepts, cutting-edge methods, and emerging trends in the field of computer vision and visual recognition.
+Throughout the course, we engaged with a wide range of research papers, lectures, and Projects, which providing us with a comprehensive understanding of advanced techniques in visual learning and recognition. The course covers foundational concepts, cutting-edge methods, and emerging trends in the field of computer vision and visual recognition.
 
 
-## 📄 Assignment List
+## 📄 Project List
 
-### [Assignment 1](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment1): Superpixels and Image Segmentation
+### [Project 1](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Project1): Superpixels and Image Segmentation
 
-### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
+### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Project1/rjadhav1(119256534)cmsc828I_fall2023_HW1.ipynb) : Contains the notebook wih the outputs of the given task.
 
-- **Implementation and Learnings from Assignment 1**:
+- **Implementation and Learnings from Project 1**:
   
-  1. **Dataset**:Used the Microsoft Research Cambridge Object Recognition Image Database (MSRC Object Categorization Dataset) for the assignment.
+  1. **Dataset**:Used the Microsoft Research Cambridge Object Recognition Image Database (MSRC Object Categorization Dataset) for the Project.
      
   2. **Superpixel Segmentation**: Understood the concept of superpixel segmentation, which involves grouping similar pixels into coherent regions or superpixels, simplifying image analysis.
      - #### Kmeans Clustering Output
@@ -36,7 +36,7 @@ Throughout the course, we engaged with a wide range of research papers, lectures
   4. **Data Preparation**: Prepared data for the supepixel segmentation task, including organizing image and ground truth segmentation files and splitting the data into training and testing sets.
      - #### Sample Patch of the Newly Created Dataset
      <img src="images/sample%20%20seg%20patch.png" alt="Sample Patch" width="20%"/>  
-  5. **Patch Extraction**: Learned how to extract superpixel patches along with their class labels. This process involved bounding box extraction, label assignment based on the majority class, and saving patches in a suitable format.
+  5. **Patch Extraction**: Learned how to extract superpixel patches along with their class labels. This process involved bounding box extraction, label Project based on the majority class, and saving patches in a suitable format.
 
   6. **Data Loading**: Created a custom dataset class for loading superpixel patches and their labels, making the data ready for training deep learning models.
 
@@ -51,20 +51,20 @@ Throughout the course, we engaged with a wide range of research papers, lectures
     
   10. **Optimization and Learning Rate Scheduling**: I set up an optimizer (Adam) and a learning rate scheduler to fine-tune the model's performance.
 
-  11. **Random Splitting**: The assignment involved splitting the dataset into training and testing subsets to assess the model's performance.
+  11. **Random Splitting**: The Project involved splitting the dataset into training and testing subsets to assess the model's performance.
 
   12. **Bonus Learning**: I explored the possibility of improving the model by implementing more advanced techniques like feature fusion or multi-resolution networks.
 
-  13. **Flexibility**: The assignment allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks, handling small patches, and ensuring efficient data   processing.
+  13. **Flexibility**: The Project allowed me to demonstrate flexibility in implementing different aspects of the project, such as adapting code for custom datasets and tasks, handling small patches, and ensuring efficient data   processing.
 
 
-### [Assignment 2](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Assignment2): Implicit Neural Representation
+### [Project 2](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/tree/main/Project2): Implicit Neural Representation
 
-### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Assignment2/Rishikesh_cmsc828I_fall_2023_HW2.ipynb) : Contains the notebook wih the outputs of the given task.
+### [Results](https://github.com/Rishikesh-Jadhav/CMSC828I-Advanced-Techniques-in-Visual-Learning-Recognition/blob/main/Project2/Rishikesh_cmsc828I_fall_2023_HW2.ipynb) : Contains the notebook wih the outputs of the given task.
 
-- **Implementation and Learnings from Assignment 2**:
+- **Implementation and Learnings from Project 2**:
   
-  1. **Understanding Implicit Neural Representation (INR)**: Explored hands-on experience with INR, parameterizing signals (images) with a neural network (feed-forward network in this assignment).
+  1. **Understanding Implicit Neural Representation (INR)**: Explored hands-on experience with INR, parameterizing signals (images) with a neural network (feed-forward network in this Project).
   
   2. **SingleImageDataset Implementation**: Developed a `SingleImageDataset` to convert the selected image into model inputs and targets.
      - **Selected Image**  
